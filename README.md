@@ -7,6 +7,9 @@ Também estou me especializando em edição de vídeos
 Sempre estudando algo novo, seja em código ou em criação visual
 Você pode me encontrar no LinkedIn
 
+
+
+
 🛠️ Tecnologias e Ferramentas
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,vscode,java,figma" alt="Ícones de tecnologias" /> </p> <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </p>
