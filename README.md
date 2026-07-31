@@ -16,4 +16,4 @@ Você pode me encontrar no LinkedIn
 
 📫 Contato
 
-<p align="left"> <a href="https://www.linkedin.com/in/kelvyn-ottolini-lima-981698381/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <i>Obrigado pela visita! ⭐ Fique à vontade para explorar meus repositórios.</i> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/kelvyn-ottolini-lima-981698381/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <i>Obrigado pela visita! Fique à vontade para explorar meus repositórios.</i> </p>
