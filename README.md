@@ -1,11 +1,10 @@
 <h1 align="center">Olá, eu sou o Kelvyn 👋</h1> <h3 align="center">Estudante de TI | Desenvolvedor de Sistemas em formação | Editor de Vídeos</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Kelvyn+Ottolini+Lima;17+anos+%7C+Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+na+SENAI+Jacob+Laffer;Curtindo+edi%C3%A7%C3%A3o+de+v%C3%ADdeo+%F0%9F%8E%AC" alt="Typing SVG" /> </p>
 
 🧑‍💻 Sobre mim
-Tenho 17 anos e curso Análise e Desenvolvimento de Sistemas na SENAI A. Jacob Laffer
-Estou aprendendo desenvolvimento de sistemas, focando em lógica de programação e boas práticas
-Também estou me especializando em edição de vídeos
-Sempre estudando algo novo, seja em código ou em criação visual
-Você pode me encontrar no LinkedIn
+Tenho 17 anos e curso Análise e Desenvolvimento de Sistemas na SENAI A. Jacob Laffer,
+Estou aprendendo programação em python, com o objetivo de criar um jogo 2D sobre o anime Bleach.
+Também estou me especializando em edição de vídeos com meu canal no Youtube (Kassiel_92), canal focado em análises de personagens de animes, jogos, séries, hqs etc. Buscando mostrar o que está escondido nas entre linhas, como representações e significados escondidos.
+Você pode me encontrar no LinkedIn ou no meu Canal no Youtube!
 
 
 
