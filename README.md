@@ -65,6 +65,8 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
 <p align="center"><sub><i>Em que estou trabalhando agora</i></sub></p>
 <p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
 
+<div align="center">
+
 | Área | O que estou fazendo | Status |
 |:--|:--|:--|
 | 🎓 **Formação** | Cursando Análise e Desenvolvimento de Sistemas no SENAI | ![Em andamento](https://img.shields.io/badge/-Em%20andamento-F77F00?style=flat-square) |
@@ -72,10 +74,14 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
 | 🎮 **Projeto pessoal** | Jogo 2D inspirado no anime Bleach | ![Planejado](https://img.shields.io/badge/-Planejado-1b1b2f?style=flat-square) |
 | 🎬 **Conteúdo** | Vídeos de análise para o canal Kassiel_92 | ![Em andamento](https://img.shields.io/badge/-Em%20andamento-F77F00?style=flat-square) |
 
-<details>
+</div>
+
+<details align="center">
 <summary><b>🗺️ Roteiro do jogo 2D (clique para abrir)</b></summary>
 
 <br/>
+
+<div align="center">
 
 | Etapa | Descrição | Status |
 |:--|:--|:--|
@@ -84,6 +90,8 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
 | 3. Mecânicas | Movimentação, combate e física em Python | ![Planejado](https://img.shields.io/badge/-Planejado-1b1b2f?style=flat-square) |
 | 4. Conteúdo | Fases, inimigos e chefes | ![Planejado](https://img.shields.io/badge/-Planejado-1b1b2f?style=flat-square) |
 | 5. Lançamento | Testes, ajustes e divulgação no canal | ![Planejado](https://img.shields.io/badge/-Planejado-1b1b2f?style=flat-square) |
+
+</div>
 
 </details>
 
