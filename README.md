@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1b2f,100:f77f00&height=240&section=header&text=Kelvyn%20Ottolini%20Lima&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Estudante%20de%20TI%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Editor%20de%20V%C3%ADdeos&descSize=16&descAlignY=58" width="100%" alt="Kelvyn Ottolini Lima"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1b2f,100:f77f00&height=250&section=header&text=Kelvyn%20Ottolini%20Lima&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Estudante%20de%20TI%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Editor%20de%20V%C3%ADdeos&descSize=16&descAlignY=58" width="100%" alt="Kelvyn Ottolini Lima"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F77F00&center=true&vCenter=true&width=620&lines=%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Aprendendo+Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o;%3E+Editor+de+v%C3%ADdeos+e+criador+de+conte%C3%BAdo;%3E+Construindo+meu+primeiro+jogo+2D" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F77F00&center=true&vCenter=true&width=640&lines=%3E+Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%3E+Aprendendo+Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o;%3E+Editor+de+v%C3%ADdeos+e+criador+de+conte%C3%BAdo;%3E+Construindo+meu+primeiro+jogo+2D" alt="Apresentação animada" />
 </p>
 
 <p align="center">
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Curso-ADS-0d1117?style=flat-square&labelColor=F77F00&color=0d1117" alt="Curso ADS" />
   <img src="https://img.shields.io/badge/Idade-17%20anos-0d1117?style=flat-square&labelColor=F77F00&color=0d1117" alt="17 anos" />
   <img src="https://img.shields.io/badge/Status-Em%20forma%C3%A7%C3%A3o-0d1117?style=flat-square&labelColor=F77F00&color=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Aprendendo-Python-0d1117?style=flat-square&labelColor=F77F00&color=0d1117" alt="Aprendendo Python" />
 </p>
 
 ```bash
@@ -55,6 +56,22 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
     <td align="center" width="33%">🎓<br/><b>Formação</b><br/><sub>Análise e Desenvolvimento<br/>de Sistemas</sub></td>
     <td align="center" width="33%">🐍<br/><b>Programação</b><br/><sub>Python e lógica<br/>de programação</sub></td>
     <td align="center" width="33%">🎬<br/><b>Conteúdo</b><br/><sub>Edição de vídeos e<br/>análises no YouTube</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 💡 &nbsp;O &nbsp; Q U E &nbsp; M E &nbsp; M O V E&nbsp; ✦</h2>
+<p align="center"><sub><i>Valores que levo para os estudos e para os projetos</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">🔍<br/><b>Curiosidade</b><br/><sub>Olhar além do óbvio,<br/>nas histórias e no código</sub></td>
+    <td align="center" width="25%">🎨<br/><b>Criatividade</b><br/><sub>Transformar ideias<br/>em vídeos e jogos</sub></td>
+    <td align="center" width="25%">🌱<br/><b>Evolução</b><br/><sub>Estudar e praticar<br/>um pouco todos os dias</sub></td>
+    <td align="center" width="25%">🤝<br/><b>Colaboração</b><br/><sub>Aprender com a<br/>comunidade e com a equipe</sub></td>
   </tr>
 </table>
 
@@ -135,12 +152,39 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
 
 <table align="center">
   <tr>
+    <td align="center" width="25%">🎌<br/><b>Animes</b><br/><sub>Personagens e<br/>simbolismos</sub></td>
+    <td align="center" width="25%">🎮<br/><b>Jogos</b><br/><sub>Narrativa e<br/>representações</sub></td>
+    <td align="center" width="25%">📺<br/><b>Séries</b><br/><sub>Arcos e<br/>significados ocultos</sub></td>
+    <td align="center" width="25%">📚<br/><b>HQs</b><br/><sub>Leitura crítica<br/>das histórias</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center">
+  <tr>
     <td align="center" width="25%">✂️<br/><b>Edição e storytelling</b><br/><sub>Narrativa visual</sub></td>
     <td align="center" width="25%">🧠<br/><b>Análise crítica</b><br/><sub>Leitura de narrativas</sub></td>
     <td align="center" width="25%">🎨<br/><b>Design</b><br/><sub>Identidade visual</sub></td>
     <td align="center" width="25%">🗂️<br/><b>Planejamento</b><br/><sub>Organização de projetos</sub></td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 💬 &nbsp;P E R G U N T E - M E &nbsp; S O B R E&nbsp; ✦</h2>
+<p align="center"><sub><i>Assuntos em que adoro conversar e trocar ideias</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-iniciando-F77F00?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20v%C3%ADdeo-F77F00?style=flat-square" alt="Edição de vídeo" />
+  <img src="https://img.shields.io/badge/Desenvolvimento%20de%20jogos-F77F00?style=flat-square" alt="Desenvolvimento de jogos" />
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20narrativas-F77F00?style=flat-square" alt="Análise de narrativas" />
+  <img src="https://img.shields.io/badge/Animes%20e%20HQs-F77F00?style=flat-square" alt="Animes e HQs" />
+  <img src="https://img.shields.io/badge/Carreira%20em%20TI-F77F00?style=flat-square" alt="Carreira em TI" />
+</p>
 
 <br/>
 
@@ -162,4 +206,6 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=F77F00&center=true&vCenter=true&width=520&lines=Obrigado+pela+visita!;Fique+%C3%A0+vontade+para+explorar+meus+reposit%C3%B3rios.;Vamos+construir+algo+juntos+%F0%9F%9A%80" alt="Mensagem final" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1b2f,100:f77f00&height=120&section=footer" width="100%" alt=""/>
+<p align="center"><a href="#"><b>⬆ Voltar ao topo</b></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1b2f,100:f77f00&height=130&section=footer" width="100%" alt=""/>
