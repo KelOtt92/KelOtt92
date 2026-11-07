@@ -25,13 +25,26 @@
   <img src="https://img.shields.io/badge/Status-Em%20forma%C3%A7%C3%A3o-0d1117?style=flat-square&labelColor=F77F00&color=0d1117" alt="Status" />
 </p>
 
-<p align="center">
-  <img src="assets/terminal.svg" width="720" alt="Terminal com minha apresentação" />
-</p>
+```bash
+kelvyn@senai:~$ whoami
+Kelvyn Ottolini Lima
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+kelvyn@senai:~$ cat sobre.txt
+17 anos | Análise e Desenvolvimento de Sistemas | SENAI
 
-<img src="assets/sec_sobre.svg" width="100%" alt="Sobre mim" />
+kelvyn@senai:~$ ls foco/
+python/   jogo-2d/   edicao-de-video/
+
+kelvyn@senai:~$ echo $OBJETIVO
+Criar um jogo 2D e crescer o canal Kassiel_92
+```
+
+<br/>
+
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 👨‍💻 &nbsp;S O B R E &nbsp; M I M&nbsp; ✦</h2>
+<p align="center"><sub><i>Quem sou eu e o que me move</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
 
 > Tenho 17 anos e curso **Análise e Desenvolvimento de Sistemas** no **SENAI A. Jacob Laffer**. Estou construindo minha base em programação com **Python** e combino tecnologia com criação de conteúdo: edito vídeos e mantenho o canal **Kassiel_92** no YouTube.
 
@@ -45,9 +58,12 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<br/>
 
-<img src="assets/sec_foco.svg" width="100%" alt="Foco atual" />
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 🎯 &nbsp;F O C O &nbsp; A T U A L&nbsp; ✦</h2>
+<p align="center"><sub><i>Em que estou trabalhando agora</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
 
 | Área | O que estou fazendo | Status |
 |:--|:--|:--|
@@ -71,9 +87,12 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
 
 </details>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<br/>
 
-<img src="assets/sec_stack.svg" width="100%" alt="Stack e ferramentas" />
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 🛠️ &nbsp;S T A C K &nbsp; E &nbsp; F E R R A M E N T A S&nbsp; ✦</h2>
+<p align="center"><sub><i>Tecnologias que uso e estudo</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma&theme=dark" alt="Ícones de tecnologias" />
@@ -91,9 +110,12 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<br/>
 
-<img src="assets/sec_conteudo.svg" width="100%" alt="Criação de conteúdo" />
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 🎬 &nbsp;C R I A Ç Ã O &nbsp; D E &nbsp; C O N T E Ú D O&nbsp; ✦</h2>
+<p align="center"><sub><i>Vídeos, análises e o canal Kassiel_92</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
 
 <p align="center">
   <a href="https://www.youtube.com/results?search_query=Kassiel_92" target="_blank">
@@ -112,9 +134,12 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   </tr>
 </table>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+<br/>
 
-<img src="assets/sec_contato.svg" width="100%" alt="Contato" />
+<p align="center">🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸</p>
+<h2 align="center">✦ 📫 &nbsp;C O N T A T O&nbsp; ✦</h2>
+<p align="center"><sub><i>Vamos conversar</i></sub></p>
+<p align="center">🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶🔸🔶</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelvyn-ottolini-lima-981698381/" target="_blank">
