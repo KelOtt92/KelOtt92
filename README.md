@@ -25,9 +25,13 @@
   <img src="https://img.shields.io/badge/Status-Em%20forma%C3%A7%C3%A3o-0d1117?style=flat-square&labelColor=F77F00&color=0d1117" alt="Status" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f77f00,50:1b1b2f,100:0d1117&height=3&section=header" width="100%" alt=""/>
+<p align="center">
+  <img src="assets/terminal.svg" width="720" alt="Terminal com minha apresentação" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b1b2f,100:0d1117&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Sobre%20mim&fontSize=24&fontColor=F77F00&fontAlign=10&fontAlignY=55" width="100%" alt="Sobre mim"/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<img src="assets/sec_sobre.svg" width="100%" alt="Sobre mim" />
 
 > Tenho 17 anos e curso **Análise e Desenvolvimento de Sistemas** no **SENAI A. Jacob Laffer**. Estou construindo minha base em programação com **Python** e combino tecnologia com criação de conteúdo: edito vídeos e mantenho o canal **Kassiel_92** no YouTube.
 
@@ -41,7 +45,9 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b1b2f,100:0d1117&height=70&section=header&text=%F0%9F%8E%AF%20Foco%20atual&fontSize=24&fontColor=F77F00&fontAlign=10&fontAlignY=55" width="100%" alt="Foco atual"/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<img src="assets/sec_foco.svg" width="100%" alt="Foco atual" />
 
 | Área | O que estou fazendo | Status |
 |:--|:--|:--|
@@ -65,7 +71,9 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b1b2f,100:0d1117&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Stack%20e%20ferramentas&fontSize=24&fontColor=F77F00&fontAlign=10&fontAlignY=55" width="100%" alt="Stack e ferramentas"/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<img src="assets/sec_stack.svg" width="100%" alt="Stack e ferramentas" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma&theme=dark" alt="Ícones de tecnologias" />
@@ -83,7 +91,9 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b1b2f,100:0d1117&height=70&section=header&text=%F0%9F%8E%AC%20Cria%C3%A7%C3%A3o%20de%20conte%C3%BAdo&fontSize=24&fontColor=F77F00&fontAlign=10&fontAlignY=55" width="100%" alt="Criação de conteúdo"/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<img src="assets/sec_conteudo.svg" width="100%" alt="Criação de conteúdo" />
 
 <p align="center">
   <a href="https://www.youtube.com/results?search_query=Kassiel_92" target="_blank">
@@ -102,7 +112,9 @@ No canal, faço análises de personagens de animes, jogos, séries e HQs, mostra
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b1b2f,100:0d1117&height=70&section=header&text=%F0%9F%93%AB%20Contato&fontSize=24&fontColor=F77F00&fontAlign=10&fontAlignY=55" width="100%" alt="Contato"/>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<img src="assets/sec_contato.svg" width="100%" alt="Contato" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelvyn-ottolini-lima-981698381/" target="_blank">
