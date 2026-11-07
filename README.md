@@ -29,7 +29,7 @@
 Tenho **17 anos** e curso **Análise e Desenvolvimento de Sistemas** no **SENAI A. Jacob Laffer**.
 
 - 🐍 Estou aprendendo **programação em Python**, com o objetivo de criar um **jogo 2D inspirado no anime Bleach**.
-- 🎬 Sou **editor de vídeos** e mantenho o canal **Kassiel_92** no YouTube, focado em **análises de personagens** de animes, jogos, séries, HQs e mais.
+- 🎬 Sou **editor de vídeos** e mantenho o canal **Kassiel_92** no YouTube, focado em **análises de personagens** de animes, jogos, séries etc.
 - 🔍 No canal, busco mostrar o que está **escondido nas entrelinhas**: representações, simbolismos e significados ocultos.
 - 🌱 Sempre em evolução: estudando, praticando e construindo projetos.
 
@@ -72,12 +72,10 @@ Além do código, eu crio e edito vídeos de análise. Isso me ajuda a desenvolv
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🐕 Latindo por aqui
 
-<!-- Troque SEU_USUARIO pelo seu nome de usuário do GitHub -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=F77F00&icon_color=F77F00&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=F77F00&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Linguagens" />
+  <img src="pastor_cabeca.gif" width="240" alt="Cabeça de pastor alemão latindo em pixel art" />
 </p>
 
 ---
