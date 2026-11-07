@@ -3,18 +3,18 @@
 
 Tenho 17 anos e curso Análise e Desenvolvimento de Sistemas no SENAI A. Jacob Laffer.
 
-🐍 Estou aprendendo programação em Python, com o objetivo de criar um jogo 2D inspirado no anime Bleach.
-🎬 Sou editor de vídeos e mantenho o canal Kassiel_92 no YouTube, focado em análises de personagens de animes, jogos, séries, HQs e mais.
-🔍 No canal, busco mostrar o que está escondido nas entrelinhas: representações, simbolismos e significados ocultos.
-🌱 Sempre em evolução: estudando, praticando e construindo projetos.
+🐍 Estou aprendendo programação em Python, com o objetivo de criar um jogo 2D inspirado no anime Bleach. Sou editor de vídeos e mantenho o canal Kassiel_92 no YouTube, focado em análises de personagens de animes, jogos, séries, HQs e mais. No canal, busco mostrar o que está escondido nas entrelinhas: representações, simbolismos e significados ocultos. Estou Sempre em evolução: estudando, praticando e construindo projetos.
+
 🎯 Objetivos
 Objetivo	Status
 Dominar os fundamentos de Python	🟡 Em andamento
 Criar um jogo 2D de Bleach	🔵 Planejado
 Crescer o canal Kassiel_92	🟡 Em andamento
 Concluir ADS no SENAI	🟡 Em andamento
-🛠️ Tecnologias e Ferramentas
+
+Tecnologias e Ferramentas
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,figma,git,github" alt="Ícones de tecnologias" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> </p>
+
 🎬 Criação de Conteúdo
 
 Além do código, eu crio e edito vídeos de análise. Isso me ajuda a desenvolver:
