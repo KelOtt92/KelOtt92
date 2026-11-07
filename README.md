@@ -30,7 +30,7 @@
 Tenho **17 anos** e curso **Análise e Desenvolvimento de Sistemas** no **SENAI A. Jacob Laffer**.
 
 - 🐍 Estou aprendendo **programação em Python**, com o objetivo de criar um **jogo 2D inspirado no anime Bleach**.
-- 🎬 Sou **editor de vídeos** e mantenho o canal **Kassiel_92** no YouTube, focado em **análises de personagens** de animes, jogos, séries, HQs e mais.
+- 🎬 Sou **editor de vídeos** e mantenho o canal **Kassiel_92** no YouTube, focado em **análises de personagens** de animes, jogos, séries etc.
 - 🔍 No canal, busco mostrar o que está **escondido nas entrelinhas**: representações, simbolismos e significados ocultos.
 - 🌱 Sempre em evolução: estudando, praticando e construindo projetos.
 
