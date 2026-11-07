@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="pixel.gif" width="140" alt="Personagem pixel art original" />
+  <img src="pixel.gif" width="200" alt="Pastor alemão latindo em pixel art" />
 </p>
 
 <p align="center">
@@ -20,9 +20,7 @@
   </a>
   <a href="https://www.youtube.com/results?search_query=Kassiel_92" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Kassiel__92-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <img src="https://img.shields.io/badge/F%C3%A3%20de-Bleach-F77F00?style=for-the-badge&labelColor=0d1117" alt="Fã de Bleach" />
-</p>
+  </a></p>
 
 ---
 
@@ -31,7 +29,6 @@
 Tenho **17 anos** e curso **Análise e Desenvolvimento de Sistemas** no **SENAI A. Jacob Laffer**.
 
 - 🐍 Estou aprendendo **programação em Python**, com o objetivo de criar um **jogo 2D inspirado no anime Bleach**.
-- ⚔️ Sou **fã de Bleach**, e o Coyote Starrk está entre os personagens que mais me inspiram.
 - 🎬 Sou **editor de vídeos** e mantenho o canal **Kassiel_92** no YouTube, focado em **análises de personagens** de animes, jogos, séries, HQs e mais.
 - 🔍 No canal, busco mostrar o que está **escondido nas entrelinhas**: representações, simbolismos e significados ocultos.
 - 🌱 Sempre em evolução: estudando, praticando e construindo projetos.
